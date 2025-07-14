@@ -1,0 +1,30 @@
+## Descripción de las columnas del dataset
+
+| Variable               | Descripción                                             |
+|------------------------|---------------------------------------------------------|
+| id                     | ID de la publicación                                    |
+| title                  | Título de la publicación                                |
+| date_created           | Fecha de creación de la publicación                     |
+| base_price             | Precio del producto en la publicación, sin descuento    |
+| price                  | Precio del producto en la publicación, con descuento    |
+| category_id            | ID de categoría del producto                            |
+| tags                   | Tags de la publicación                                  |
+| attributes             | Atributos del producto publicado                        |
+| variations             | Variaciones del producto publicado                      |
+| pictures               | Fotos del producto publicado                            |
+| seller_id              | ID del vendedor                                         |
+| seller_country         | País de residencia del vendedor                         |
+| seller_province        | Provincia de residencia del vendedor                    |
+| seller_city            | Ciudad de residencia del vendedor                       |
+| seller_loyalty         | Loyalty o segmento del vendedor                         |
+| buying_mode            | Modo de compra especificado                             |
+| shipping_mode          | Modo de envío especificado                              |
+| shipping_admits_pickup | Flag indicando si se puede retirar al domicilio         |
+| shipping_is_free       | Flag indicando si el envío es gratis                    |
+| status                 | Estado de la publicación                                |
+| sub_status             | Sub-estado de la publicación                            |
+| warranty               | Garantía del producto                                   |
+| is_new                 | Flag indicando si el producto es nuevo                  |
+| initial_quantity       | Stock inicial del producto                              |
+| sold_quantity          | Stock vendido del producto                              |
+| available_quantity     | Stock disponible del producto                           |
